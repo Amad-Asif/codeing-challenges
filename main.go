@@ -6,6 +6,12 @@ import (
 )
 
 func main() {
+
+	//fmt.Println(examples.CheckStillPalindrome("abc"))
+	//examples.ActivityNotifications([]int{1, 2, 3, 4, 4}, 4)
+}
+
+func solveIceCream() {
 	examples.IceCreamParlor([]int32{1, 2, 3, 5, 6}, 5)
 }
 
